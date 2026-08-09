@@ -12,7 +12,7 @@ frases en español neutro, usando la clave soportada `spinnerVerbs` de
 ### Skill (recomendado)
 
 ```bash
-npx skills add <tu-usuario>/spinner-espanol
+npx skills add rocioDEV/spinnerd
 ```
 
 Luego pídele al agente "instala el spinner en español" — copiará el
