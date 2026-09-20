@@ -1,5 +1,5 @@
 ---
-name: install-spinner-espanol
+name: spinnerd
 description: Installs or removes a Spanish-language spinner verb pack for Claude Code, replacing the default English status words ("Thinking...", "Analyzing...") with Spanish ones via the spinnerVerbs setting. Use when the user asks to install Spanish spinners, switch the spinner language, or remove/reset a spinner pack.
 ---
 
@@ -10,7 +10,7 @@ Code, usando la clave soportada `spinnerVerbs` de `~/.claude/settings.json`.
 
 ## Instalación
 
-1. Lee el paquete disponible en `spinners/neutral.json` (relativo a la raíz
+1. Lee el paquete disponible en `spinners/claudesincero.json` (relativo a la raíz
    de este skill/repo).
 2. Lee el archivo `~/.claude/settings.json` del usuario.
 3. Copia el campo `spinnerVerbs` del paquete dentro de `settings.json`:

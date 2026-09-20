@@ -1,30 +1,3 @@
-# spinnerd
-
-Paquete de verbos de spinner en español para [Claude Code](https://docs.anthropic.com/en/docs/claude-code).
-
-Claude Code muestra un spinner con verbos rotativos mientras trabaja
-("Thinking...", "Analyzing..."). Este repo reemplaza esos verbos por
-frases en español y con bastante menos filtro, usando la clave soportada `spinnerVerbs` de
-`settings.json`.
-
-## Instalación
-
-### Skill (recomendado)
-
-```bash
-npx skills add rocioDEV/spinnerd
-```
-
-Luego pídele al agente "instala el spinner en español" — copiará el
-paquete a tu `~/.claude/settings.json`. Para revertir, pide "quita el
-spinner" o "restablece los spinners".
-
-### Manual
-
-Copia el contenido de `spinners/claudesincero.json` dentro de tu
-`~/.claude/settings.json`:
-
-```json
 {
   "spinnerVerbs": {
     "mode": "replace",
@@ -72,11 +45,3 @@ Copia el contenido de `spinners/claudesincero.json` dentro de tu
     ]
   }
 }
-```
-
-Usa `"mode": "append"` en lugar de `"replace"` si prefieres añadir estos
-verbos a los verbos por defecto en inglés en vez de sustituirlos.
-
-## Créditos
-
-Inspirado en [awesome-claude-spinners](https://github.com/AlexPl292/awesome-claude-spinners).
