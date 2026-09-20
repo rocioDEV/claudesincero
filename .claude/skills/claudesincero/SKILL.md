@@ -1,6 +1,6 @@
 ---
-name: spinnerd
-description: Installs or removes a Spanish-language spinner verb pack for Claude Code, replacing the default English status words ("Thinking...", "Analyzing...") with Spanish ones via the spinnerVerbs setting. Use when the user asks to install or remove spinnerd, install Spanish spinners, switch the spinner language, or reset the spinner verbs.
+name: claudesincero
+description: Installs or removes a Spanish-language spinner verb pack for Claude Code, replacing the default English status words ("Thinking...", "Analyzing...") with Spanish ones via the spinnerVerbs setting. Use when the user asks to install or remove claudesincero, install Spanish spinners, switch the spinner language, or reset the spinner verbs.
 ---
 
 # Instalar spinners en español

@@ -1,4 +1,4 @@
-# spinnerd
+# claudesincero
 
 Paquete de verbos de spinner en español para [Claude Code](https://docs.anthropic.com/en/docs/claude-code).
 
@@ -12,17 +12,17 @@ frases en español y con bastante menos filtro, usando la clave soportada
 ### Skill (recomendado)
 
 ```bash
-npx skills add rocioDEV/spinnerd
+npx skills add rocioDEV/claudesincero
 ```
 
-Luego pídele al agente "instala spinnerd" — copiará el paquete
+Luego pídele al agente "instala claudesincero" — copiará el paquete
 `claudesincero` a tu `~/.claude/settings.json`. Para revertir, pide
-"quita spinnerd" o "restablece los spinners".
+"quita claudesincero" o "restablece los spinners".
 
 ### Manual
 
 Copia el contenido de
-`.claude/skills/spinnerd/spinners/claudesincero.json` dentro de tu
+`.claude/skills/claudesincero/spinners/claudesincero.json` dentro de tu
 `~/.claude/settings.json`:
 
 ```json
