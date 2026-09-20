@@ -15,9 +15,9 @@ frases en español y con bastante menos filtro, usando la clave soportada
 npx skills add rocioDEV/spinnerd
 ```
 
-Luego pídele al agente "instala el spinner en español" — copiará el
-paquete a tu `~/.claude/settings.json`. Para revertir, pide "quita el
-spinner" o "restablece los spinners".
+Luego pídele al agente "instala spinnerd" — copiará el paquete
+`claudesincero` a tu `~/.claude/settings.json`. Para revertir, pide
+"quita spinnerd" o "restablece los spinners".
 
 ### Manual
 
