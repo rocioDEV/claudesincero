@@ -21,7 +21,7 @@ spinner" o "restablece los spinners".
 
 ### Manual
 
-Copia el contenido de `spinners/claudesincero.json` dentro de tu
+Copia el contenido de `.claude/skills/spinnerd/spinners/claudesincero.json` dentro de tu
 `~/.claude/settings.json`:
 
 ```json

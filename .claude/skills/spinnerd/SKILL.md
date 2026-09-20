@@ -10,8 +10,8 @@ Code, usando la clave soportada `spinnerVerbs` de `~/.claude/settings.json`.
 
 ## Instalación
 
-1. Lee el paquete disponible en `spinners/claudesincero.json` (relativo a la raíz
-   de este skill/repo).
+1. Lee el paquete disponible en `spinners/claudesincero.json` (relativo a la
+   carpeta de este skill, es decir, junto a este `SKILL.md`).
 2. Lee el archivo `~/.claude/settings.json` del usuario.
 3. Copia el campo `spinnerVerbs` del paquete dentro de `settings.json`:
    - Si `spinnerVerbs` ya existe, reemplaza su valor.
