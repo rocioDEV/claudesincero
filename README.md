@@ -1,5 +1,9 @@
 # claudesincero
 
+<p align="center">
+  <img src="assets/claudesincero.png" alt="Asterisco de Claude diciendo: Quemando tokens como si no hubiera un mañana" width="280">
+</p>
+
 Paquete de verbos de spinner en español para [Claude Code](https://docs.anthropic.com/en/docs/claude-code).
 
 Claude Code muestra un spinner con verbos rotativos mientras trabaja
