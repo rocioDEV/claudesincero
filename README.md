@@ -8,7 +8,7 @@ Paquete de verbos de spinner en español para [Claude Code](https://docs.anthrop
 
 Claude Code muestra un spinner con verbos rotativos mientras trabaja
 ("Thinking...", "Analyzing..."). Este repo reemplaza esos verbos por
-frases en español menos guays y más sinceros, usando la clave soportada
+frases en español menos guays y más sinceras, usando la configuración que Claude ofrece para ello:
 `spinnerVerbs` de `settings.json`.
 
 <img width="714" height="173" alt="image" src="https://github.com/user-attachments/assets/c9e942fb-3aa6-4f6d-b32c-f809d45cdf9c" />
@@ -23,7 +23,7 @@ npx skills add rocioDEV/claudesincero
 ```
 
 Luego pídele al agente "instala claudesincero" — copiará el paquete
-`claudesincero` a tu `~/.claude/settings.json`. Para revertir, pide
+`claudesincero` a tu `~/.claude/settings.json`. Para volver a lo que tenías antes, pide
 "quita claudesincero" o "restablece los spinners".
 
 ### Manual
