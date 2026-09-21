@@ -8,7 +8,7 @@ Paquete de verbos de spinner en español para [Claude Code](https://docs.anthrop
 
 Claude Code muestra un spinner con verbos rotativos mientras trabaja
 ("Thinking...", "Analyzing..."). Este repo reemplaza esos verbos por
-frases en español y con bastante menos filtro, usando la clave soportada
+frases en español menos guays y más sinceros, usando la clave soportada
 `spinnerVerbs` de `settings.json`.
 
 <img width="714" height="173" alt="image" src="https://github.com/user-attachments/assets/c9e942fb-3aa6-4f6d-b32c-f809d45cdf9c" />
