@@ -11,6 +11,9 @@ Claude Code muestra un spinner con verbos rotativos mientras trabaja
 frases en español y con bastante menos filtro, usando la clave soportada
 `spinnerVerbs` de `settings.json`.
 
+<img width="714" height="173" alt="image" src="https://github.com/user-attachments/assets/c9e942fb-3aa6-4f6d-b32c-f809d45cdf9c" />
+
+
 ## Instalación
 
 ### Skill (recomendado)
