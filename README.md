@@ -19,7 +19,7 @@ frases en español menos guays y más sinceras, usando la configuración que Cla
 ### Skill (recomendado)
 
 ```bash
-npx skills add rocioDEV/claudesincero
+npx skills add rocioDEV/claudesincero -a claude-code
 ```
 
 Luego pídele al agente "instala claudesincero" — copiará el paquete
